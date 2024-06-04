@@ -7,7 +7,7 @@ main:
   #   url: /about-me/    
 
   - title: "Notes"
-    url: /notes/    
+    url: /Notes/    
     
   - title: "Projects"
     url: /portfolio/
