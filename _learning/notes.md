@@ -1,5 +1,6 @@
 ---
 title: "Maths and Statistics"
+permalink: /learning/notes
 collection: learning
 ---
 
