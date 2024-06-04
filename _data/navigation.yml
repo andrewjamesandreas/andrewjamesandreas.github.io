@@ -7,7 +7,7 @@ main:
   #   url: /about-me/    
 
   - title: "Notes"
-    url: /_Notes/ 
+    url: /_Notes/notes.md
     
   # - title: "Projects"
   #   url: /portfolio/
