@@ -4,7 +4,7 @@ excerpt: "Some notes I have created on various math and statistics topics. Pleas
 collection: Notes
 ---
 
-I have been creating notes over essential topics for my own learning and wanted to share them here in the event someone might find them useful. These should be considered living documents that encompass and are subject to change over time as I add to or remove information. 
+I have been creating notes over essential topics for my own learning and wanted to share them here in the event someone might find them useful. These should be considered living documents and are thus subject to change over time as I add to or remove information. 
 
 # Maths 
 - [Matrix Decompositions](/files/Matrix Decompositions.pdf)
