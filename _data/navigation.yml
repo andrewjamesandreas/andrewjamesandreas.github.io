@@ -6,8 +6,8 @@ main:
   # - title: "About Me"
   #   url: /about-me/    
 
-  - title: "Notes"
-    url: /_Notes/notes.md
+  - title: "Learning"
+    url: /learning/
     
   # - title: "Projects"
   #   url: /portfolio/
