@@ -1,4 +1,3 @@
-
 ---
 title: "Notes"
 excerpt: "Some notes I have created on various math and statistics topics. Please feel free to use them if you find them helpful."
