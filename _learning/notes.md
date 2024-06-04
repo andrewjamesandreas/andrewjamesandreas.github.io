@@ -1,5 +1,5 @@
 ---
-title: "Math and Statistics Notes"
+title: "Maths and Statistics"
 collection: learning
 ---
 
