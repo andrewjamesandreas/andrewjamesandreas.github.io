@@ -214,7 +214,7 @@ collections:
     permalink: /:collection/:path/
   learning:
     output: true 
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
