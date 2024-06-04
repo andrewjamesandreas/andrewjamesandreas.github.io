@@ -6,7 +6,7 @@ main:
   # - title: "About Me"
   #   url: /about-me/    
 
-  - title: "Math & ML Notes"
+  - title: "Notes"
     url: /notes/    
     
   - title: "Projects"
