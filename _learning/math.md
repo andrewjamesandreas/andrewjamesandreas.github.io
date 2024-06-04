@@ -1,5 +1,5 @@
 ---
-title: "Math Notes"
+title: "Math"
 collection: learning
 ---
 
