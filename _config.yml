@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Andreas"
+title                    : "Andrew's Homepage"
 title_separator          : "-"
 name                     : &name "Andrew Andreas"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Andrew Andreas"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "Maths, Machine Learning & Investing"
   location         : "London, UK"
   employer         : "The Blackstone Group"
-  uri              : # URL
+  # uri              : # URL
   email            : "andrew.andreas0@gmail.com" 
 
   # # Academic websites
