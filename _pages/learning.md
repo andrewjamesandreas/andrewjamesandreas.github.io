@@ -17,4 +17,5 @@ Please feel free to use these notes if you find them helpful.
 
 ### Statistical Inference 
 - [Point Estimation](/files/Statistics%20-%20Point%20Estimation.pdf)
+- [Hypothesis Tests and Confidence Intervals](/files/Statistics%20-%20Hypothesis%20Tests%20and%20Confidence%20Intervals.pdf)
 
