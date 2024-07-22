@@ -10,9 +10,6 @@ Please feel free to use these notes if you find them helpful.
 
 ## Math 
 
-### Linear Algebra
-- [Matrix Decompositions](/files/Matrix%20Decompositions.pdf)
-
 ## Statistics 
 
 ### Classical Inference 
