@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working in Blackstone's Real Estate Private Equity team in London and have been doing so since October 2021. Prior to this I studied at Imperial College London for my bachelors (Chemistry) and my masters (Artificial Intelligence and Machine Learning). 
+I am currently looking for a new role as a quantitative researcher or data scientist in financial markets. My previous work experience includes working in Blackstone's Real Estate Private Equity team in London from October 2021 through to June 2024. 
 
-I have a deep interest in maths, statistics and machine learning and believe that the investment process can be improved by utilizing data science techniques to better inform the fundamental analysis. 
-
-I created this website so that I may document my progress, thoughts and ideas as I look to pivot into a more quantitative and data-driven role as an investor. 
+I studied at Imperial College London for my bachelors in Chemistry and followed this with a masters in Artificial Intelligence and Machine Learning. I have a deep interest in maths, statistics and machine learning, particularly as it relates to financial markets. I created this website so that I may document my progress, thoughts and ideas as I look to pivot into a more quantitative and data-driven role as an investor. 
 
 ## What I am working on 
 At the moment I am focusing mainly on re-familiarizing myself with the core building blocks that underpin modern ML (i.e., the fundamental math and statistics) and doing some side projects to both aid my learning and develop my programming skills. 
