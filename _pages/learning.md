@@ -4,11 +4,11 @@ title: "Notes"
 permalink: /learning/
 author_profile: true
 ---
-Below are some notes I have created on various math and statistics topics which I wanted to refamiliarise myself. I have found the process of creating these notes to be very helpful in this endeavour. There are various other sets of notes under construction which will be added to the list as they are finished. 
+Below are some notes I have created on various math and statistics topics. There are various other sets of notes under construction which will be added to the list as they are finished. 
 
 These notes are intended to be living documents that I will update when I find new perspectives or additional useful material. 
 
-Please feel free to use these notes and let me know if you find any errors (I am sure there will be) or if you have anu suggestions.
+Please feel free to use these notes if you find them useful. 
 
 ## Math 
 ### Calculus 
